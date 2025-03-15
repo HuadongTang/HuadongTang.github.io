@@ -30,7 +30,7 @@ My research interest includes multi-modal learning and computer vision. **I am c
 
 # 📝 Publications 
 - *🎓 During PhD Period*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-25</div><img src='images/D4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/D4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Merino: Entropy-driven Design for Generative Language Models on IoT Devices](https://arxiv.org/pdf/2403.07921)
 
@@ -40,7 +40,7 @@ Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='images/D3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/D3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CAA: Class-Aware Affinity calculation add-on for semantic segmentation](https://www.sciencedirect.com/science/article/pii/S0950705124007317)
 
@@ -50,7 +50,7 @@ Knowledge-Based Systems 299, 112097
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP-23</div><img src='images/D2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/D2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Parameter-Efficient Vision Transformer with Linear Attention](https://ieeexplore.ieee.org/abstract/document/10222812)
 
@@ -60,7 +60,7 @@ YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP-23</div><img src='images/D1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/D1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CLASS-AWARE CONTEXTUAL INFORMATION FOR SEMANTIC SEGMENTATION](https://ieeexplore.ieee.org/abstract/document/10094805)
 
@@ -71,7 +71,7 @@ ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal P
 </div>
 
 - *🎓 During Master Period*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications</div><img src='images/M4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/M4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LSTM and multiple CNNs based event image classification](https://link.springer.com/article/10.1007/s11042-020-10165-4)
 
@@ -81,7 +81,7 @@ Multimedia Tools and Applications 80 (20), 30743-30760
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/M3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/M3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)
 
@@ -91,7 +91,7 @@ Expert Systems with Applications 120, 298-309
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Soft Computing</div><img src='images/M2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/M2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Softly combining an ensemble of classifiers learned from a single convolutional neural network for scene categorization](https://www.sciencedirect.com/science/article/pii/S1568494618301236)
 
@@ -101,7 +101,7 @@ Applied Soft Computing 67, 183-196
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/M1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/M1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Categorizing scenes by exploring scene part information without constructing explicit models](https://www.sciencedirect.com/science/article/pii/S0925231217318301)
