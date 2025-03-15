@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the University of Technology Sydney (UTS)， where I am conducting research in image semantic segmentation and multi-modal learning. I am currently seeking postdoctoral positions to advance my research career. If any opportunities arise, please feel free to email me at huadong.tang@student.uts.edu.au.
-I obtained M.Eng. degree from Beijing Jiaotong University in 2018 and B.Eng. degree from Nanjing Agricultural University in 2016. 
+I am currently a PhD student at the [University of Technology Sydney (UTS)](https://www.uts.edu.au). I obtained M.Eng. degree from Beijing Jiaotong University in 2018 and B.Eng. degree from Nanjing Agricultural University in 2016.
 
-My research interest includes multi-modal learning and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+From 2018 to 2019, I worked at [BOE](https://www.boe.com/en/) as an algorithm engineer in Beijing. From 2021 to 2022, I interned at [Samsung Research](https://research.samsung.com/src-b) in Beijing, focusing on image semantic segmentation.
+
+My research interest includes multi-modal learning and computer vision. **I am currently seeking postdoctoral positions to advance my research career. If any opportunities arise, please feel free to email me at [huadong.tang@student.uts.edu.au](huadong.tang@student.uts.edu.au).**
 
 
 # 🔥 News
@@ -45,7 +46,7 @@ My research interest includes multi-modal learning and computer vision. I have p
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09* Best Intern Award. 
 
 # 📖 Educations
 - *2021.08 - 2025.08 (now)*, PhD, University of Sydney Technology, Sydney. 
