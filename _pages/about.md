@@ -35,6 +35,7 @@ My research interest includes multi-modal learning and computer vision. **I am c
 [Merino: Entropy-driven Design for Generative Language Models on IoT Devices](https://arxiv.org/pdf/2403.07921)
 
 YouPeng Zhao, Ming Lin, **Huadong Tang**, Qiang Wu, Jun Wang
+
 Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25)
 </div>
 </div>
@@ -44,6 +45,7 @@ Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25)
 [CAA: Class-Aware Affinity calculation add-on for semantic segmentation](https://www.sciencedirect.com/science/article/pii/S0950705124007317)
 
 **Huadong Tang**, YouPeng Zhao, Chaofan Du, Min Xu, Qiang Wu
+
 Knowledge-Based Systems 299, 112097
 </div>
 </div>
@@ -53,6 +55,7 @@ Knowledge-Based Systems 299, 112097
 [Parameter-Efficient Vision Transformer with Linear Attention](https://ieeexplore.ieee.org/abstract/document/10222812)
 
 YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
+
 2023 IEEE International Conference on Image Processing (ICIP), 1275-1279
 </div>
 </div>
@@ -62,6 +65,7 @@ YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
 [CLASS-AWARE CONTEXTUAL INFORMATION FOR SEMANTIC SEGMENTATION](https://ieeexplore.ieee.org/abstract/document/10094805)
 
 **Huadong Tang**, YouPeng Zhao, Yingying Jiang, Zhuoxin Gan, Qiang Wu
+
 ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 </div>
 </div>
@@ -72,6 +76,7 @@ ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal P
 [LSTM and multiple CNNs based event image classification](https://link.springer.com/article/10.1007/s11042-020-10165-4)
 
 Peian Li, **Huadong Tang**, Jing Yu, Wei Song
+
 Multimedia Tools and Applications 80 (20), 30743-30760
 </div>
 </div>
@@ -81,6 +86,7 @@ Multimedia Tools and Applications 80 (20), 30743-30760
 [Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)
 
 Shuang Bai, **Huadong Tang**, Shan An
+
 Expert Systems with Applications 120, 298-309
 </div>
 </div>
@@ -90,6 +96,7 @@ Expert Systems with Applications 120, 298-309
 [Softly combining an ensemble of classifiers learned from a single convolutional neural network for scene categorization](https://www.sciencedirect.com/science/article/pii/S1568494618301236)
 
 Shuang Bai, **Huadong Tang**
+
 Applied Soft Computing 67, 183-196
 </div>
 </div>
@@ -100,6 +107,7 @@ Applied Soft Computing 67, 183-196
 [Categorizing scenes by exploring scene part information without constructing explicit models](https://www.sciencedirect.com/science/article/pii/S0925231217318301)
 
 Shuang Bai, **Huadong Tang**
+
 Neurocomputing 281, 160-168
 
 </div>
