@@ -35,6 +35,7 @@ My research interest includes multi-modal learning and computer vision. **I am c
 [Merino: Entropy-driven Design for Generative Language Models on IoT Devices](https://arxiv.org/pdf/2403.07921)
 
 YouPeng Zhao, Ming Lin, **Huadong Tang**, Qiang Wu, Jun Wang
+Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25)
 </div>
 </div>
 
@@ -43,22 +44,25 @@ YouPeng Zhao, Ming Lin, **Huadong Tang**, Qiang Wu, Jun Wang
 [CAA: Class-Aware Affinity calculation add-on for semantic segmentation](https://www.sciencedirect.com/science/article/pii/S0950705124007317)
 
 **Huadong Tang**, YouPeng Zhao, Chaofan Du, Min Xu, Qiang Wu
+Knowledge-Based Systems 299, 112097
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP</div><img src='images/D2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP-23</div><img src='images/D2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Parameter-Efficient Vision Transformer with Linear Attention](https://ieeexplore.ieee.org/abstract/document/10222812)
 
 YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
+2023 IEEE International Conference on Image Processing (ICIP), 1275-1279
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/D1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP-23</div><img src='images/D1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CLASS-AWARE CONTEXTUAL INFORMATION FOR SEMANTIC SEGMENTATION](https://ieeexplore.ieee.org/abstract/document/10094805)
 
 **Huadong Tang**, YouPeng Zhao, Yingying Jiang, Zhuoxin Gan, Qiang Wu
+ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 </div>
 </div>
 
@@ -68,6 +72,7 @@ YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
 [LSTM and multiple CNNs based event image classification](https://link.springer.com/article/10.1007/s11042-020-10165-4)
 
 Peian Li, **Huadong Tang**, Jing Yu, Wei Song
+Multimedia Tools and Applications 80 (20), 30743-30760
 </div>
 </div>
 
@@ -76,6 +81,7 @@ Peian Li, **Huadong Tang**, Jing Yu, Wei Song
 [Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)
 
 Shuang Bai, **Huadong Tang**, Shan An
+Expert Systems with Applications 120, 298-309
 </div>
 </div>
 
@@ -84,6 +90,7 @@ Shuang Bai, **Huadong Tang**, Shan An
 [Softly combining an ensemble of classifiers learned from a single convolutional neural network for scene categorization](https://www.sciencedirect.com/science/article/pii/S1568494618301236)
 
 Shuang Bai, **Huadong Tang**
+Applied Soft Computing 67, 183-196
 </div>
 </div>
 
@@ -93,14 +100,10 @@ Shuang Bai, **Huadong Tang**
 [Categorizing scenes by exploring scene part information without constructing explicit models](https://www.sciencedirect.com/science/article/pii/S0925231217318301)
 
 Shuang Bai, **Huadong Tang**
-<!--
-[**Project**](https://www.sciencedirect.com/science/article/pii/S0925231217318301) <strong><span class='show_paper_citations' data='LiiZikgAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+Neurocomputing 281, 160-168
+
 </div>
 </div>
-
-
-
 
 
 # 🎖 Honors and Awards
