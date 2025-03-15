@@ -24,12 +24,12 @@ From 2018 to 2019, I worked at [BOE](https://www.boe.com/en/) as an algorithm en
 My research interest includes multi-modal learning and computer vision. **I am currently seeking postdoctoral positions to advance my research career. If any opportunities arise, please feel free to email me at [huadong.tang@student.uts.edu.au](huadong.tang@student.uts.edu.au).**
 
 
-# 🔥 News
+<!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
-
+- *🎓 During Master Period*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
