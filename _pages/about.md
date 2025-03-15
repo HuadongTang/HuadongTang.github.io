@@ -115,8 +115,8 @@ Neurocomputing 281, 160-168
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.09* Best Intern Award. 
+- *2022.11* Best Intern Award.
+- *2021.09* Best Intern Award. 
 
 # 📖 Educations
 - *2021.08 - 2025.08 (now)*, PhD, University of Sydney Technology, Sydney. 
