@@ -30,15 +30,15 @@ My research interest includes multi-modal learning and computer vision. **I am c
 
 # 📝 Publications 
 - *🎓 During Master Period*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/M1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/M1.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Categorizing scenes by exploring scene part information without constructing explicit models](https://www.sciencedirect.com/science/article/pii/S0925231217318301)
 
 Shuang Bai, **Huadong Tang**
-
+<!--
 [**Project**](https://www.sciencedirect.com/science/article/pii/S0925231217318301) <strong><span class='show_paper_citations' data='LiiZikgAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
