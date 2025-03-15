@@ -30,6 +30,30 @@ My research interest includes multi-modal learning and computer vision. **I am c
 
 # 📝 Publications 
 - *🎓 During Master Period*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/M4.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+[LSTM and multiple CNNs based event image classification](https://link.springer.com/article/10.1007/s11042-020-10165-4)
+
+Peian Li, **Huadong Tang**, Jing Yu, Wei Song
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/M3.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)
+
+Shuang Bai, **Huadong Tang**, Shan An
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/M2.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Softly combining an ensemble of classifiers learned from a single convolutional neural network for scene categorization](https://www.sciencedirect.com/science/article/pii/S1568494618301236)
+
+Shuang Bai, **Huadong Tang**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/M1.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,7 +66,9 @@ Shuang Bai, **Huadong Tang**
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
