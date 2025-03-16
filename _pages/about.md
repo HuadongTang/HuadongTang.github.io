@@ -29,7 +29,7 @@ My research interest includes multi-modal learning and computer vision. **I am c
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
-- *🎓 During PhD Period*
+## *🎓 During PhD Period*
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/D4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Merino: Entropy-driven Design for Generative Language Models on IoT Devices](https://arxiv.org/pdf/2403.07921)
@@ -70,7 +70,7 @@ ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal P
 </div>
 </div>
 
-- *🎓 During Master Period*
+## *🎓 During Master Period*
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/M4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LSTM and multiple CNNs based event image classification](https://link.springer.com/article/10.1007/s11042-020-10165-4)
