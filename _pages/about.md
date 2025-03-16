@@ -36,7 +36,7 @@ My research interest includes multi-modal learning and computer vision. **I am c
 
 YouPeng Zhao, Ming Lin, **Huadong Tang**, Qiang Wu, Jun Wang
 
-Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25)
+Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25) **(2025)**
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25)
 
 **Huadong Tang**, YouPeng Zhao, Chaofan Du, Min Xu, Qiang Wu
 
-Knowledge-Based Systems 299, 112097
+Knowledge-Based Systems 299, 112097 **(2024)**
 </div>
 </div>
 
@@ -56,7 +56,7 @@ Knowledge-Based Systems 299, 112097
 
 YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
 
-2023 IEEE International Conference on Image Processing (ICIP), 1275-1279
+2023 IEEE International Conference on Image Processing (ICIP), 1275-1279 **(2023)**
 </div>
 </div>
 
@@ -66,7 +66,7 @@ YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
 
 **Huadong Tang**, YouPeng Zhao, Yingying Jiang, Zhuoxin Gan, Qiang Wu
 
-ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) **(2023)**
 </div>
 </div>
 
@@ -77,7 +77,7 @@ ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal P
 
 Peian Li, **Huadong Tang**, Jing Yu, Wei Song
 
-Multimedia Tools and Applications 80 (20), 30743-30760
+Multimedia Tools and Applications 80 (20), 30743-30760 **(2021)**
 </div>
 </div>
 
@@ -87,7 +87,7 @@ Multimedia Tools and Applications 80 (20), 30743-30760
 
 Shuang Bai, **Huadong Tang**, Shan An
 
-Expert Systems with Applications 120, 298-309
+Expert Systems with Applications 120, 298-309 **(2019)**
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Expert Systems with Applications 120, 298-309
 
 Shuang Bai, **Huadong Tang**
 
-Applied Soft Computing 67, 183-196
+Applied Soft Computing 67, 183-196 **(2018)**
 </div>
 </div>
 
@@ -108,7 +108,7 @@ Applied Soft Computing 67, 183-196
 
 Shuang Bai, **Huadong Tang**
 
-Neurocomputing 281, 160-168
+Neurocomputing 281, 160-168 **(2018)**
 
 </div>
 </div>
