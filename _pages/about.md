@@ -32,6 +32,16 @@ My research interest includes multi-modal learning and computer vision. **I am c
 ## *🎓 During PhD Period*
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364)
+
+**Huadong Tang**, YouPeng Zhao, Min Xu, Jun Wang, Qiang Wu
+
+preprint **(2025)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation]
 
 **Huadong Tang**, YouPeng Zhao, Min Xu, Jun Wang, Qiang Wu
@@ -137,8 +147,8 @@ Neurocomputing 281, 160-168 **(2018)**
 - *2021.03 - 2022.12*, Samsung Research, Beijing.
   
 # 💻 Professional Service
-- Conference Reviewer:ACCV, WACV
-- Journal Reviewer: TMM
+- Conference Reviewer: **ACCV**, **WACV**
+- Journal Reviewer: **TMM**, **KBS**
 
 # 📌 Visitor Map
 [![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=emp6ueY-bv_hY7v5bIyqkTmNjNK2AUOxtTlPTw6MOnU&cl=ffffff&w=500)](https://clustrmaps.com/site/1bjm0)
