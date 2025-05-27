@@ -32,10 +32,9 @@ My research interest includes multi-modal learning and computer vision. **I am c
 ## *🎓 During PhD Period*
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation![Uploading image.png…]()
-]
+[Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation]
 
-Huadong Tang, YouPeng Zhao, Min Xu, Jun Wang, Qiang Wu
+**Huadong Tang**, YouPeng Zhao, Min Xu, Jun Wang, Qiang Wu
 
 IEEE Transactions on Multimedia **(2025)**
 </div>
