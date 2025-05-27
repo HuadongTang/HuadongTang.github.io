@@ -30,7 +30,7 @@ My research interest includes multi-modal learning and computer vision. **I am c
 
 # 📝 Publications 
 ## *🎓 During PhD Period*
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LMseg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364)
 
