@@ -148,7 +148,7 @@ Neurocomputing 281, 160-168 **(2018)**
   
 # 💻 Professional Service
 - Conference Reviewer: **ACCV**, **WACV**
-- Journal Reviewer: **TMM**, **KBS**
+- Journal Reviewer: **TMM**, **KBS**, *TCSVT*
 
 # 📌 Visitor Map
 [![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=emp6ueY-bv_hY7v5bIyqkTmNjNK2AUOxtTlPTw6MOnU&cl=ffffff&w=500)](https://clustrmaps.com/site/1bjm0)
