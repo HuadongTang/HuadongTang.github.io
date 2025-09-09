@@ -139,7 +139,7 @@ Neurocomputing 281, 160-168 **(2018)**
 - *2021.09* Best Intern Award. 
 
 # 📖 Educations
-- *2021.08 - 2025.08 (now)*, PhD, University of Sydney Technology, Sydney. 
+- *2021.08 - 2025.08*, PhD, University of Sydney Technology, Sydney. 
 - *2016.09 - 2018.06*, Master, Beijing Jiaotong University, Beijing.
 - *2012.09 - 2016.06*, Bachelor, Nanjing Agricultural University, Nanjing.
 
@@ -147,7 +147,7 @@ Neurocomputing 281, 160-168 **(2018)**
 - *2021.03 - 2022.12*, Samsung Research, Beijing.
   
 # 💻 Professional Service
-- Conference Reviewer: **ACCV**, **WACV**
+- Conference Reviewer: **ACCV**, **WACV**, **WACV**
 - Journal Reviewer: **TMM**, **KBS**, **TCSVT**
 
 # 📌 Visitor Map
