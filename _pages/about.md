@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the [University of Technology Sydney (UTS)](https://www.uts.edu.au), supervised by [Prof.Qiang Wu](https://profiles.uts.edu.au/qiang.wu) and [Prof.Min Xu](https://profiles.uts.edu.au/Min.Xu). I obtained M.Eng. degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2018, supervised by  [Prof.Jianjun Hou](https://faculty.bjtu.edu.cn/74/) and [Prof.Shuang Bai](https://faculty.bjtu.edu.cn/eaie/8587.html) and B.Eng. degree from [Nanjing Agricultural University](https://www.njau.edu.cn/) in 2016.
+I am currently a PhD student at the [University of Technology Sydney (UTS)](https://www.uts.edu.au). I obtained M.Eng. degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2018 and B.Eng. degree from [Nanjing Agricultural University](https://www.njau.edu.cn/) in 2016.
 
 From 2018 to 2019, I worked at [BOE](https://www.boe.com/en/) as an algorithm engineer in Beijing. From 2021 to 2022, I interned at [Samsung Research](https://research.samsung.com/src-b) in Beijing, focusing on image semantic segmentation and neural architecture search.
 
