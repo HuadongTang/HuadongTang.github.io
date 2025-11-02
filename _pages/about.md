@@ -42,7 +42,7 @@ preprint **(2025)**
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation]
+[Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation](https://arxiv.org/pdf/2510.25174)
 
 **Huadong Tang**, YouPeng Zhao, Min Xu, Jun Wang, Qiang Wu
 
