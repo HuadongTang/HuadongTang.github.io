@@ -28,8 +28,8 @@ My research interest includes multi-modal learning and computer vision. **I am c
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📝 Publications 
-## *🎓 During PhD Period*
+# 📝 Selected Publications 
+<!--## *🎓 During PhD Period*-->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/LMseg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364)
@@ -89,7 +89,7 @@ YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
 ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) **(2023)**
 </div>
 </div>
-
+<!--
 ## *🎓 During Master Period*
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/M4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,7 +132,7 @@ Neurocomputing 281, 160-168 **(2018)**
 
 </div>
 </div>
-
+-->
 
 # 🎖 Honors and Awards
 - *2022.11* Best Intern Award.
