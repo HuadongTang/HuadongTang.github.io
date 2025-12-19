@@ -147,8 +147,8 @@ Neurocomputing 281, 160-168 **(2018)**
 - *2021.03 - 2022.12*, Samsung Research, Beijing.
   
 # 💻 Professional Service
-- Conference Reviewer: **ACCV**, **WACV**, **WACV**
-- Journal Reviewer: **TMM**, **KBS**, **TCSVT**
+- Conference Reviewer: **ACCV**, **WACV**, **NeurIPS**, **CVPR**, **AAAI**
+- Journal Reviewer: **TMM**, **KBS**, **TCSVT**, **TIP**
 
 # 📌 Visitor Map
 [![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=emp6ueY-bv_hY7v5bIyqkTmNjNK2AUOxtTlPTw6MOnU&cl=ffffff&w=500)](https://clustrmaps.com/site/1bjm0)
