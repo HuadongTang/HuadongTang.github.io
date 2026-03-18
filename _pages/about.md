@@ -34,7 +34,7 @@ My research interest includes multi-modal learning and computer vision. **I am c
 <!--## *🎓 During PhD Period*-->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/hyperpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[HyperPR: Hyperbolic Prompt Refinement for Zero-Shot Anomaly Detection]
+HyperPR: Hyperbolic Prompt Refinement for Zero-Shot Anomaly Detection
 
 **Huadong Tang**
 Under Review **(2026)**
@@ -43,7 +43,7 @@ Under Review **(2026)**
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Palmad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[PALM-AD: Prototype Aggregation and Learnable Medical Prompts for Anomaly Detection]
+PALM-AD: Prototype Aggregation and Learnable Medical Prompts for Anomaly Detection
 
 Jian Li, **Huadong Tang**, Fuxin Liang, Sai-Ho Ling
 
