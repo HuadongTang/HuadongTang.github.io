@@ -32,6 +32,25 @@ My research interest includes multi-modal learning and computer vision. **I am c
 
 # 📝 Selected Publications 
 <!--## *🎓 During PhD Period*-->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hyperpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[HyperPR: Hyperbolic Prompt Refinement for Zero-Shot Anomaly Detection]
+
+**Huadong Tang**
+Under Review **(2026)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Palmad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PALM-AD: Prototype Aggregation and Learnable Medical Prompts for Anomaly Detection]
+
+Jian Li, **Huadong Tang**, Fuxin Liang, Sai-Ho Ling
+
+The IEEE International Conference on Multimedia & Expo 2026 ICME **(2026)**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/LMseg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364)
