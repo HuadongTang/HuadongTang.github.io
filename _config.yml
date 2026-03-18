@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huadong Tang"
-description              : "PhD Student in UTS. Focusing on Computer Vision and Multi-Modal Learning"
+title                    : "Dr.Huadong Tang"
+description              : "PhD. Research Field: Multi-Modal LearningImage SegmentationAI4HealthCareEfficient Models"
 repository               : "HuadongTang/HUadongTang.github.io"
 google_scholar_stats_use_cdn : true
 
