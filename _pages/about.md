@@ -45,7 +45,7 @@ Under Review **(2026)**
 <div class='paper-box-text' markdown="1">
 PALM-AD: Prototype Aggregation and Learnable Medical Prompts for Anomaly Detection
 
-Jian Li, **Huadong Tang**, Fuxin Liang, Sai-Ho Ling (Co-first author)
+Jian Li, **Huadong Tang (Co-first author)**, Fuxin Liang, Sai-Ho Ling
 
 The IEEE International Conference on Multimedia & Expo 2026 ICME **(2026)**
 </div>
