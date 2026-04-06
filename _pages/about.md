@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I recently earned my Ph.D. from the [University of Technology Sydney (UTS)](https://www.uts.edu.au). Prior to this, I obtained my M.Eng. from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2018 and B.Eng. from [Nanjing Agricultural University](https://www.njau.edu.cn/) in 2016.
+I obtained my Ph.D. degree from the [University of Technology Sydney (UTS)](https://www.uts.edu.au). Prior to this, I obtained my M.Eng. from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2018 and B.Eng. from [Nanjing Agricultural University](https://www.njau.edu.cn/) in 2016.
 
 From 2018 to 2019, I worked at [BOE](https://www.boe.com/en/) as an algorithm engineer in Beijing. From 2021 to 2022, I interned at [Samsung Research](https://research.samsung.com/src-b) in Beijing, focusing on image semantic segmentation and neural architecture search.
 
