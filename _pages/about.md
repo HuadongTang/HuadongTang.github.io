@@ -32,6 +32,15 @@ My research interest includes multi-modal learning and computer vision. **I am c
 
 # 📝 Selected Publications 
 <!--## *🎓 During PhD Period*-->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mesa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Low-Rank Modality Experts and Spatial-Aware Adapter for Medical Anomaly Detection with Vision-Language Models
+
+Jian Li, **Huadong Tang (Co-first author)**, Fuxin Liang, Sai-Ho Ling
+Under Review **(2026)**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/hyperpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 HyperPR: Hyperbolic Prompt Refinement for Zero-Shot Anomaly Detection
