@@ -181,8 +181,8 @@ Neurocomputing 281, 160-168 **(2018)**
 <p align="center">
   <a href="https://mapmyvisitors.com/web/1c6c4">
     <img
-      src="https://mapmyvisitors.com/map.png?d=PY4RxTlKW9W-A-svbVTN7H7LnnrWDnC7a4Mi95DphsI&cl=ffffff"
-      width="850"
+      src="https://mapmyvisitors.com/map.png?d=PY4RxTlKW9W-A-svbVTN7H7LnnrWDnC7a4Mi95DphsI&cl=ffffff](https://mapmyvisitors.com/map.png?d=PY4RxTlKW9W-A-svbVTN7H7LnnrWDnC7a4Mi95DphsI&cl=ffffff"
+      width="500"
     />
   </a>
 </p>
