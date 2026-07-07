@@ -21,7 +21,7 @@ I obtained my Ph.D. degree from the [University of Technology Sydney (UTS)](http
 
 From 2018 to 2019, I worked at [BOE](https://www.boe.com/en/) as an algorithm engineer in Beijing. From 2021 to 2022, I interned at [Samsung Research](https://research.samsung.com/src-b) in Beijing, focusing on image semantic segmentation and neural architecture search.
 
-I am currently an Algorithm Engineer at [Linkerbot](https://linkerbot.cn/), working on algorithm development for embodied intelligence and robotics applications. As an independent and self-driven researcher, I have led research projects from conceptualization to completion during my Ph.D. journey. My research interests include computer vision, multi-modal learning, Vision-Language Models (VLMs), zero-shot anomaly detection (ZSAD), prompt engineering, and embodied AI.
+I am currently Embodied AI Perception Team Lead at [Linkerbot](https://linkerbot.cn/), working on algorithm development for embodied intelligence and robotics applications. As an independent and self-driven researcher, I have led research projects from conceptualization to completion during my Ph.D. journey. My research interests include computer vision, multi-modal learning, Vision-Language Models (VLMs), zero-shot anomaly detection (ZSAD), prompt engineering, and embodied AI.
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -178,4 +178,4 @@ Neurocomputing 281, 160-168 **(2018)**
 - Journal Reviewer: **TMM**, **KBS**, **TCSVT**, **TIP**
 
 # 📌 Visitor Map
-[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=emp6ueY-bv_hY7v5bIyqkTmNjNK2AUOxtTlPTw6MOnU&cl=ffffff&w=500)](https://clustrmaps.com/site/1bjm0)
+[![ClustrMaps](https://mapmyvisitors.com/map.png?d=PY4RxTlKW9W-A-svbVTN7H7LnnrWDnC7a4Mi95DphsI&cl=ffffff)](https://mapmyvisitors.com/web/1c6c4)
