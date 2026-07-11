@@ -21,7 +21,7 @@ I obtained my Ph.D. degree from the [University of Technology Sydney (UTS)](http
 
 From 2018 to 2019, I worked at [BOE](https://www.boe.com/en/) as an algorithm engineer in Beijing. From 2021 to 2022, I interned at [Samsung Research](https://research.samsung.com/src-b) in Beijing, focusing on image semantic segmentation and neural architecture search.
 
-I am currently Embodied AI Perception Team Lead at [Linkerbot](https://linkerbot.cn/), working on algorithm development for embodied intelligence and robotics applications. As an independent and self-driven researcher, I have led research projects from conceptualization to completion during my Ph.D. journey. My research interests include computer vision, multi-modal learning, Vision-Language Models (VLMs), zero-shot anomaly detection (ZSAD), prompt engineering, and embodied AI.
+I am currently Embodied AI Perception Team Lead at [Linkerbot](https://linkerbot.cn/), working on algorithm development for embodied intelligence and robotics applications. My research interests include computer vision, multimodal learning, Vision-Language Models (VLMs), zero-shot anomaly detection, prompt learning, and embodied AI. I am open to research and industry collaborations in embodied intelligence, robot perception, and multimodal learning.
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
