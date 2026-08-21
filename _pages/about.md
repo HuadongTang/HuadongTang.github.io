@@ -29,6 +29,15 @@ I am currently Embodied AI Perception Team Lead at [Linkerbot](https://linkerbot
 
 # 📝 Selected Publications 
 <!--## *🎓 During PhD Period*-->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos
+
+Zheyu Huang, Zijing Shi, Haozhe Luo, **Huadong Tang**, Mingyu Liu, Meng Fang, Ling Chen
+EMNLP Findings **(2026)**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/mesa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Low-Rank Modality Experts and Spatial-Aware Adapter for Medical Anomaly Detection with Vision-Language Models
