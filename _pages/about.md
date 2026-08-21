@@ -34,6 +34,7 @@ I am currently Embodied AI Perception Team Lead at [Linkerbot](https://linkerbot
 SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos
 
 Zheyu Huang, Zijing Shi, Haozhe Luo, **Huadong Tang**, Mingyu Liu, Meng Fang, Ling Chen
+
 **EMNLP Findings (2026)**
 </div>
 </div>
@@ -43,6 +44,7 @@ Zheyu Huang, Zijing Shi, Haozhe Luo, **Huadong Tang**, Mingyu Liu, Meng Fang, Li
 Low-Rank Modality Experts and Spatial-Aware Adapter for Medical Anomaly Detection with Vision-Language Models
 
 Jian Li, **Huadong Tang (Co-first author)**, Fuxin Liang, Sai-Ho Ling
+
 Under Review **(2026)**
 </div>
 </div>
@@ -52,6 +54,7 @@ Under Review **(2026)**
 HyperPR: Hyperbolic Prompt Refinement for Zero-Shot Anomaly Detection
 
 **Huadong Tang**
+
 Under Review **(2026)**
 </div>
 </div>
