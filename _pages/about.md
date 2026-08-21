@@ -34,7 +34,7 @@ I am currently Embodied AI Perception Team Lead at [Linkerbot](https://linkerbot
 SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos
 
 Zheyu Huang, Zijing Shi, Haozhe Luo, **Huadong Tang**, Mingyu Liu, Meng Fang, Ling Chen
-EMNLP Findings **(2026)**
+**EMNLP Findings (2026)**
 </div>
 </div>
 
@@ -62,7 +62,7 @@ PALM-AD: Prototype Aggregation and Learnable Medical Prompts for Anomaly Detecti
 
 Jian Li, **Huadong Tang (Co-first author)**, Fuxin Liang, Sai-Ho Ling
 
-The IEEE International Conference on Multimedia & Expo 2026 ICME **(2026 Oral)**
+**The IEEE International Conference on Multimedia & Expo 2026 ICME (2026 Oral)**
 </div>
 </div>
 
@@ -82,7 +82,7 @@ preprint **(2025)**
 
 **Huadong Tang**, YouPeng Zhao, Min Xu, Jun Wang, Qiang Wu
 
-IEEE Transactions on Multimedia **(2025)**
+**IEEE Transactions on Multimedia (2025)**
 </div>
 </div>
 
@@ -92,7 +92,7 @@ IEEE Transactions on Multimedia **(2025)**
 
 YouPeng Zhao, Ming Lin, **Huadong Tang**, Qiang Wu, Jun Wang
 
-Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25) **(2025)**
+**Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25) (2025)**
 </div>
 </div>
 
@@ -102,7 +102,7 @@ Proceedings of the 39th AAAl Conference on Artificial Intelligence (AAAI-25) **(
 
 **Huadong Tang**, YouPeng Zhao, Chaofan Du, Min Xu, Qiang Wu
 
-Knowledge-Based Systems 299, 112097 **(2024)**
+**Knowledge-Based Systems 299, 112097 (2024)**
 </div>
 </div>
 
@@ -112,7 +112,7 @@ Knowledge-Based Systems 299, 112097 **(2024)**
 
 YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
 
-2023 IEEE International Conference on Image Processing (ICIP), 1275-1279 **(2023)**
+**2023 IEEE International Conference on Image Processing (ICIP), 1275-1279 (2023)**
 </div>
 </div>
 
@@ -122,7 +122,7 @@ YouPeng Zhao, **Huadong Tang**, Yingying Jiang, A Yong, Qiang Wu, Jun Wang
 
 **Huadong Tang**, YouPeng Zhao, Yingying Jiang, Zhuoxin Gan, Qiang Wu
 
-ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) **(2023)**
+**ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2023)**
 </div>
 </div>
 <!--
@@ -133,7 +133,7 @@ ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal P
 
 Peian Li, **Huadong Tang**, Jing Yu, Wei Song
 
-Multimedia Tools and Applications 80 (20), 30743-30760 **(2021)**
+**Multimedia Tools and Applications 80 (20), 30743-30760 (2021)**
 </div>
 </div>
 
@@ -143,7 +143,7 @@ Multimedia Tools and Applications 80 (20), 30743-30760 **(2021)**
 
 Shuang Bai, **Huadong Tang**, Shan An
 
-Expert Systems with Applications 120, 298-309 **(2019)**
+**Expert Systems with Applications 120, 298-309 (2019)**
 </div>
 </div>
 
@@ -153,7 +153,7 @@ Expert Systems with Applications 120, 298-309 **(2019)**
 
 Shuang Bai, **Huadong Tang**
 
-Applied Soft Computing 67, 183-196 **(2018)**
+**Applied Soft Computing 67, 183-196 (2018)**
 </div>
 </div>
 
@@ -164,7 +164,7 @@ Applied Soft Computing 67, 183-196 **(2018)**
 
 Shuang Bai, **Huadong Tang**
 
-Neurocomputing 281, 160-168 **(2018)**
+**Neurocomputing 281, 160-168 (2018)**
 
 </div>
 </div>
